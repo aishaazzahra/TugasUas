@@ -1,71 +1,32 @@
-###################
-What is CodeIgniter
+Website Momsky Parenting
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Website Momsky Parenting adalah sebuah website informasi untuk memberikan informasi kepada user 
+tentang pengetahuan mendidik anak usia dini dari usia 0-12 tahun. 
 
 *******************
-Release Information
+Frontend Website
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Dibagian Frontend Website ini berisi 
+tentang artikel tentang parenting yang bisa diakses dan di baca oleh user
+selain itu user dapat memberikan Komentar yang nanti akan masuk ke dalam database
 
 **************************
-Changelog and New Features
+Backend Website
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Halaman admin ini dapat mengelola data akun admin
+menghapus, menambah dan mengedit data tersebut. lalu dapat juga melihat dan menghapus komentar dari user
+************************
 
-*******************
-Server Requirements
-*******************
+Kelompok 3 12.3A.04
+1. AIsha Azzahra (12210215)
+2. Saskia Azzahra (12210309)
+3. Muhammad Rizal Fauzi (12210784)
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+************************
+Email : 
+rf769986@gmail.com
+Password :
+12345
